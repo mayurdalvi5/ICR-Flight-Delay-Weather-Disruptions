@@ -18,7 +18,7 @@ Week 4 updates including accomplishments, blockers, and next week's goals.
       - As we were looking through the data set located in **Initial_data_exploration.ipynb**, we noticed that there were a lot of NA values. How would you suggest we handle these?
       - In the data set, we also noticed that some flights had an earlier departure than scheduled (negative delay in minutes). We would love to get your insight on this, should we only consider observations that have been delayed for lengths of time greater than 0?
       - The aircraft type is not in the data set, how should we go about this?
-      - In our classes we have learned that the more data, the better the model would be. But we would love to get your insight to this as well. How many data points should we collect? How many data points are enough in a project like this?
+      - In our classes we have learned that the more data, the better the model would be, but we would love to get your insight to this as well. How many data points should we collect? How many data points are enough in a project like this?
 
 ---
 
