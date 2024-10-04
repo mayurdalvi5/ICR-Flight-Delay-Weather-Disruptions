@@ -7,7 +7,7 @@ Week 6 updates including accomplishments, blockers, and next week's goals.
 
   - **Ella** helped Tristan finish the literature review, summarizing the main points and conclusions for each
   - **Tristan** helped Ella finish the literature review, summarizing the main points and conclusions for each
-  - **Mayur** 
+  - **Mayur**  helped with data cleaning and data imputation for both weather and flight data. Specifically, since the weather data was available on an hourly basis, he divided it into 15-minute intervals and applied the linear interpolation method to fill in the missing data. 
   - **Reza** 
 
 ---
