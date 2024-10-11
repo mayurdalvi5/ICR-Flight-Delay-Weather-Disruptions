@@ -34,7 +34,7 @@ Predicting Flight Delays Due to Weather Disruptions
           2. The second part reads **stations_20240101_20240201_filtered.csv** and **updated_merged_2024.csv** and merges both files to join the flight and weather data.
              - Before merging, the `datetime` columns in both files are rounded to the nearest hour. The `datetime` column in **stations_20240101_20240201_filtered.csv** is `['valid']`, and in **updated_merged_2024.csv**, it is `['departure_datetime']`. This results in two new columns: `['rounded_valid']` and `['rounded_departure']` for their respective files.
              - The two files are merged based on `['rounded_valid']`, `['rounded_departure']`, and `['station']`, `['ORIGIN']` (i.e., the name of the station and airport origin).
-             - The final output after merging is **final_merged_2024.csv** [Download Here](https://mega.nz/file/LuJFDJwR#kQWyjJvjf2Zmq2HmTEqZhaII_1ERT9sdCarMqn7AQjE).
+             - The final output after merging is **final_merged_2024.csv** [Download Here](https://mega.nz/file/i2RxjSDb#j_eV4lIeVZnyZAUo-eEriYKvkMtNn16TByFlYZdxpMY).
 
 ---
 
