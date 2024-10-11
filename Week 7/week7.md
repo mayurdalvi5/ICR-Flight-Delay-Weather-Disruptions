@@ -15,6 +15,8 @@ Week 7 updates including accomplishments, blockers, and next week's goals.
   
   - **Problem statement/objective**
     - With the deadline for our first report approaching, we've been fine-tuning the objective for our study. We have a question about the specifics of our problem statement so that it's clear which predictors we'll be using.
+  - **Report 1 Rough Draft**
+    - Review rough draft and discuss feedback    
 
 ---
 
