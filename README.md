@@ -40,5 +40,5 @@ Predicting Flight Delays Due to Weather Disruptions
 
 # Note
 
-For now, we have only considered data from **New York & Colorado State** and **January 2024**.
+For now, we have only considered data from **New york, Colorado, California, Florida, Texas, Illionis, Georgia, New Jersey, Maryland, Nevada  State** and **January 2024**.
 
