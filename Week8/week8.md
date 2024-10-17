@@ -13,7 +13,8 @@ Week 8 updates including accomplishments, blockers, and next week's goals.
 # Blockers and Questions
 
   - **Report 1 Final Draft**
-    - Review final draft and discuss feedback    
+    - Review final draft and discuss feedback
+    - Begin discussion of data exploration
 
 ---
 
