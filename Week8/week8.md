@@ -1,5 +1,5 @@
 # Week 8
-Week 8 updates including accomplishments, blockers, and next week's goals.
+Week 8 updates including accomplishments, discussion points, and next week's goals.
 
 ---
 
@@ -10,7 +10,7 @@ Week 8 updates including accomplishments, blockers, and next week's goals.
 
 ---
 
-# Blockers and Questions
+# Discussion Points, Blockers, and Questions
 
   - **Report 1 Final Draft**
     - Review final draft and discuss feedback
