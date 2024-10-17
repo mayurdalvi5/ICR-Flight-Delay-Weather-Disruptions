@@ -20,6 +20,6 @@ Week 8 updates including accomplishments, blockers, and next week's goals.
 
 # Next Week's Goals
 
-  - **All team members** will be working on downloading 10 years worth of data for 10 states. By the end of Week 9, we'll have our entire dataset downloaded and ready for data exploration.
+  - **All team members** will be working on downloading 10 years worth of data for 10 states. Our goal is to have this finished by Tuesday so that we can get a head start on the data exploration phase of our project. 
 
 ---
