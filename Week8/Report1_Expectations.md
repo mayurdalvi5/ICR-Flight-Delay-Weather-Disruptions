@@ -1,0 +1,5 @@
+Report 1 Expectations
+
+**Introduction**: Describe the problem context, including any required domain knowledge or terminology. When written well, introductions narrate a story that culminates in an obvious problem to be solved. The reader need not be an expert in the domain, but they must have enough information to understand the problem and its consequences. End the introduction by explicitly stating the research question and the benefits of answering it.
+
+**Sources**: Explain the relevance and reliability of the project's source materials. The source review should include both data and research materials. Depending on the study type, data might be obtained directly via experimentation or indirectly via observation. In either case, you must defend the quality of your data and summarize its structure. Similarly, past research related to the problem at hand may be of varying quality. Prior to leveraging past results or employing domain-specific knowledge, you must ensure its veracity. Often this is a matter of confirming information with multiple sources.
