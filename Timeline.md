@@ -3,7 +3,8 @@ Important milestones for our project timeline.
 
 ---
 
-# Report 1, due October 16th
+# Report 1
+## Due October 16th
 
   - **Intro**
     - Describe the problem context, including any required domain knowledge or terminology. When written well, introductions narrate a story that culminates in an obvious problem to be solved. The reader need not be an expert in the domain, but they must have enough information to understand the problem and its consequences. End the introduction by explicitly stating the research question and the benefits of answering it.
@@ -13,7 +14,8 @@ Important milestones for our project timeline.
 
 ---
 
-# Report 2, due November 13th
+# Report 2
+## Due November 13th
 
   - **Intro** and **Sources**
     
@@ -28,19 +30,22 @@ Important milestones for our project timeline.
 
 ---
 
-# Final Slides, due December 6th
+# Final Slides
+## Due December 6th
 
   - Submit final slideshow for presentation
 
 ---
 
-# Presentation, takes place either on December 10th or 12th
+# Presentation
+## Takes place either on December 10th or 12th
 
   - Present the team's completed project to your classmates, domain expert, and department faculty in person and via teleconference. You must provide your domain expert a copy of your slides at least 24 hours prior to the meeting. Your presentation cannot exceed 20 minutes, including questions. Although it is permissible for one team representative to lead the presentation, all team members should have a speaking role and be prepared to answer questions. In fact, each team member will be asked at least one question during or after the presentation
 
 ---
 
-# Report 3, due December 15th
+# Report 3
+## Due December 15th
 
   - The final report on your project must incorporate all of the feedback and recommendations from previous versions. The new additions to the report should include an abstract, summarize the final analytic results, discuss the significance and limitations of those results in the context of the problem, conclude with an answer to the research question, make recommendations for implementation and future work, and properly cite all references. Your paper should be a stand-alone product that is well-organized, consistently formatted, clearly explained, and peer-reviewed for spelling and grammar. In short, it should be publication-ready whether your team intends to seek publication or not.
     
