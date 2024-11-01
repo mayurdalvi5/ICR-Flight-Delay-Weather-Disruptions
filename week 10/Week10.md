@@ -14,7 +14,7 @@ Week 10 updates including accomplishments, discussion points, and next week's go
 
 # Discussion Points, Blockers, and Questions
 
-  - **Questions:**
+  - **Discussion point:**
     - We will discuss our findings in the Friday Zoom meeting.
 
 ---
