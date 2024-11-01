@@ -7,7 +7,7 @@ Week 10 updates including accomplishments, discussion points, and next week's go
 
   - **Ella** completed an MVP for Illinois 2020
   - **Reza** completed an MVP for Illinois 2023
-  - **Mayur** completed an MVP for Illinois 2018
+  - **Mayur** Get State-wise data and completed an MVP for Illinois 2018
   - **Tristan** completed an MVP for Illinois 2014
 
 ---
