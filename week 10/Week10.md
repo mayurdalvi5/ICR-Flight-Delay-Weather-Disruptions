@@ -22,6 +22,7 @@ Week 10 updates including accomplishments, discussion points, and next week's go
 # Next Week's Goals
 
   - **All team members** will use the findings from our MVPs to create improved models with multiple years of data combined. We will also start applying models to other states.
+  - **All team members** will start on writing Report 2.
 
 ---
 # Final state-wise .csv's can be found in the Week 10 folder
