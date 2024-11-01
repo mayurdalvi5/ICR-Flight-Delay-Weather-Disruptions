@@ -1,8 +1,8 @@
 # Team Responsibility Matrix
 
-| Team Member | Responsiblitiy 1 | Responsibility 2 | Responsibility 3 |
-|-------------|------------------|------------------|------------------|
-| Ella        | Project Liason   | Intro/Lit Review | MVP Illinois 2020|
-| Reza        | Supercomputer    | Sources Section  | MVP Illinois 2023|
-| Tristan     | Report editor    | Intro/Lit Review | MVP Illinois 2014|
-| Mayur       | Data Collection  | Data Cleaning    | MVP Illinois 2018|
+| Team Member | Responsiblitiy 1 | Responsibility 2 | Responsibility 3 | Responsibility 4 |
+|-------------|------------------|------------------|------------------|------------------|
+| Ella        | Project Liason   | Introduction     | MVP Illinois 2020| Github Upkeep    |
+| Reza        | Data Collection  | Sources Section  | MVP Illinois 2023| Supercomputer    |
+| Tristan     | Report editor    | Lit Review       | MVP Illinois 2014| Researcher       |
+| Mayur       | Data Collection  | Data Cleaning    | MVP Illinois 2018| Supercomputer    |
