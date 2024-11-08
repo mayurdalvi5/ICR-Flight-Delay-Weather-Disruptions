@@ -11,6 +11,7 @@ Week 11 updates including accomplishments, discussion points, and next week's go
     - **Mayur** restructured our dataset and created a 
     - **Tristan** created a Support Vector Machine model
   - Everyone will be using data from the month of January in Illinois for years 2014 - 2024
+  - **All team members** worked on writing our initial draft for Report 2
 
 ---
 
