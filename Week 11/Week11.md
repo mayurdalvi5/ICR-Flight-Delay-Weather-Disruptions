@@ -19,7 +19,6 @@ Week 11 updates including accomplishments, discussion points, and next week's go
 
   - **Discussion point:**
     - We will each discuss our findings in the Friday Zoom meeting.
-    - What will the format of our final results be? Separated by state, season, etc? 
 
 ---
 
