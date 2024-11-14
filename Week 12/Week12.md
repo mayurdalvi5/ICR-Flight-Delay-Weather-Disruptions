@@ -12,7 +12,7 @@ Week 12 updates including accomplishments, discussion points, and next week's go
 # Discussion Points, Blockers, and Questions
 
   - **Discussion point:**
-    - We will each discuss our current draft for Report 2 during the Friday Zoom meeting.
+    - We will each discuss our current rough draft for Report 2 during the Friday Zoom meeting. 
     - What will the format of our final results be? Separated by state, season, etc? 
 
 ---
