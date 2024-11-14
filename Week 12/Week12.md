@@ -19,7 +19,8 @@ Week 12 updates including accomplishments, discussion points, and next week's go
 
 # Next Week's Goals
 
-  - **All team members** will work on 
+  - **All team members** will work on finishing Report 2 on time for the Sunday deadline
+  - We will delegate responsibilities in response to feedback received in the Friday meeting
 
 ---
 # Our Report 2 draft can be found in the Week 12 folder
