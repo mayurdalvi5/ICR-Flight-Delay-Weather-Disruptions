@@ -13,7 +13,9 @@ Week 12 updates including accomplishments, discussion points, and next week's go
 
   - **Discussion point:**
     - We will each discuss our current rough draft for Report 2 during the Friday Zoom meeting. 
-    - What will the format of our final results be? Separated by state, season, etc? 
+    - What will the format of our final results be? Separated by state, season, etc?
+    - Is overall accuracy, recall, or precision more important to ICR for choosing our best performing model?
+    - What would you like for us to work on as we approach the end of the semester?
 
 ---
 
