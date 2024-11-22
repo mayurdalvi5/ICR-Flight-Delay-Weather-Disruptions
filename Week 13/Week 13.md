@@ -9,6 +9,10 @@ Week 13 updates including accomplishments, discussion points, and next week's go
 
 ---
 
+# Questions
+
+ - Would you prefer Tuesday 12/10 or Thursday 12/12 for our presentation date?
+
 # Next Week's Goals
 
   - Thanksgiving break!!
