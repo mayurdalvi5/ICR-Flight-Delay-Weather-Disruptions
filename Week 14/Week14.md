@@ -12,7 +12,6 @@ Week 14 updates including accomplishments, discussion points, and next week's go
 # Questions and Discussion Points
 
  - Any suggestions for our presentation slides
- - 
 
 # Next Week's Goals
 
