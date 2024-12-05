@@ -16,6 +16,7 @@ Week 14 updates including accomplishments, discussion points, and next week's go
 # Next Week's Goals
 
   - Present our study on Tuesday, 12/10 at 11:45 A.M.
+  - We will not be meeting next Friday. Our Report 3 is due at 11:59 P.M. on Sunday 12/15, so you will have our final report by E.O.D the following Monday.
 
 ---
 
