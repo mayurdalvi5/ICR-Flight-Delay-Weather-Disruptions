@@ -1,1 +1,24 @@
+# Week 14
+Week 14 updates including accomplishments, discussion points, and next week's goals.
 
+---
+
+# This Week's Accomplishments
+
+  - **All team members** worked on completing the slides for our presentation
+
+---
+
+# Questions and Discussion Points
+
+ - Any suggestions for our presentation slides
+ - 
+
+# Next Week's Goals
+
+  - Present our study on Tuesday, 12/10 at 11:45 A.M.
+
+---
+
+# A rough draft of our presentation slides can be found in the Week 14 folder
+---
